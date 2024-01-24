@@ -1,6 +1,10 @@
 # clone_disneyplus
 **Comandos**
 
+link do repositorio:
+
+[Aqui](https://github.com/ogiansouza/clone_disneyplus/blob/main/index.html)
+
 ```
 npm init -y
 
